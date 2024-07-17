@@ -1,2 +1,2 @@
-- Contact: @efetutorial on instagram
+- Contact: @efetutorial on instagram or discord
 
