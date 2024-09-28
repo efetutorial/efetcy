@@ -1,5 +1,5 @@
 <h1 align="center">Selam Ben Efe</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">Öğrenme aşamasında, fullstack deveporsugu olacam</h3>
 
 - 🌱 **C++, C#, GO, JS** öğreniyorum.
 
