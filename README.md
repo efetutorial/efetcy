@@ -1,9 +1,9 @@
 <h1 align="center">Selam Ben Efe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🌱 I’m currently learning **C++, C#, GO, JS**
+- 🌱 **C++, C#, GO, JS** öğreniyorum.
 
-- 📫 How to reach me **1@ef3e.com.tr, @efetutorial on instagram or discord**
+- İletişim: **1@ef3e.com.tr, @efetutorial on instagram or discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
